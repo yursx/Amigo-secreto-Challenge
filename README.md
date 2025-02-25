@@ -21,4 +21,4 @@ Este projeto é um dos desafio do curso Logica em Programação, realizado pela 
 <br>
 
 📌 **Acesse o Projeto**
-link:
+link: https://amigo-secreto-challenge-zeta.vercel.app/
