@@ -20,5 +20,4 @@ Este projeto é um dos desafio do curso Logica em Programação, realizado pela 
 - Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 <br>
 
-📌 **Acesse o Projeto**
-link: https://amigo-secreto-challenge-zeta.vercel.app/
+📌 **Acesse o Projeto**: https://amigo-secreto-challenge-zeta.vercel.app/
